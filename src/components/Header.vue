@@ -1,6 +1,6 @@
 <template>
   <b-navbar toggleable type="dark" variant="dark">
-    <img id="logo" src="../assets/images/logo.png" height="50px">
+    <img id="logo" src="../assets/logo.png" height="50px">
     <b-navbar-brand href="#">Capture moments</b-navbar-brand>
     
 
